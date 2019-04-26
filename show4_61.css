@@ -1,0 +1,170 @@
+ border-style
+{
+    display:block;
+    font-size:20pt;
+    color:black;
+    background-color:yellow;
+}
+shi#1
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=50;
+    left=10;
+    width=150;
+    height=150;
+}
+shi#2
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=200;
+    left=10;
+    width=150;
+    height=150;
+}
+shi#3
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=350;
+    left=10;
+    width=150;
+    height=150;
+}
+shi#4
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=50;
+    left=200;
+    width=150;
+    height=150;
+}
+shi#5
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=200;
+    left=200;
+    width=150;
+    height=150;
+}
+shi#6
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=350;
+    left=200;
+    width=180;
+    height=150;
+}
+shi#7
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=50;
+    left=350;
+    width=150;
+    height=150;
+}
+shi#8
+{
+    display:block;
+    font-size:15pt;
+    color:red;
+    position:absolute;
+    top=200;
+    left=350;
+    width=150;
+    height=150;
+}
+
+
+
+dotted
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:dotted;
+    border-color:rgb(255,0,138)/* rgb(128,2,255) rgb(64,128,128) rgb(0,64,0) */;
+    border-top-width:8;
+}
+dashed
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:dashed;  
+    border-top-width:8;
+    border-color:rgb(128,2,255);
+}
+double
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:double;  
+    border-top-width:4;
+    border-color:rgb(64,128,128);
+}
+groove
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:groove;  
+    border-top-width:8;
+    border-color:rgb(0,64,0);
+}
+ridge
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:ridge;  
+    border-top-width:8;
+    border-color:rgb(128,0,64);
+}
+inset
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:inset;  
+    border-top-width:8;
+    border-color:rgb(255,128,0);
+}
+outset
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:outset;  
+    border-top-width:8;
+    border-color:rgb(0,128,192);
+}
+solid
+{
+    display:block;
+    width=60;
+    height=60;
+    border-style:solid;  
+    border-top-width:8;
+    border-color:rgb(0,255,0);
+}

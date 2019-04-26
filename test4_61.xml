@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="show4_61.css" type="text/css" ?>
+<root> 
+    <border-style>
+        border-style属性设置边框的类型
+　      <shi ID="1">
+            1、边框线是有点组成的虚线
+            <dotted/>
+        </shi>　
+        <shi ID="2">
+      		2、边框线是有短线组成的虚线
+      		<dashed/>
+   		</shi>
+    	<shi ID="3">
+      		3、边框线是双线
+      		<double/>
+    	</shi> 
+    	<shi ID="4">
+      		4、3D沟槽状边框
+      		<groove/>
+    	</shi> 
+    	<shi ID="5">
+      		5、3D脊状边框
+      		<ridge/>
+    	</shi> 
+    	<shi ID="6">
+      		6、3D内嵌状边框
+      		<inset/>
+    	</shi> 
+    	<shi ID="7">
+      		7、3D外嵌状边框
+      		<outset/>
+    	</shi> 
+    	<shi ID="8">
+     		 8、普通的边框
+      		<solid/>
+    	</shi>    　　
+  </border-style>
+</root>

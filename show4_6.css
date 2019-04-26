@@ -1,0 +1,31 @@
+bigFrame
+{
+    display:block;
+    border-style:dotted;  
+    border-top-width:15;
+    /*border-bottom-width:15;*/
+    font-size:18pt;
+    color:red;
+    width=260;
+    height=150;
+}
+smallFrame#01
+{
+    display:block;
+    border-style:double;
+    /*border-color:red green blue yellow;*/
+    font-size:12pt;
+    color:blue;
+    width=180;
+    height=60;
+}
+smallFrame#02
+{
+    display:block;
+    border-style:ridge;
+    /*border-color:blue green;*/
+    font-size:8pt;
+    color:green;
+    width=130;
+    height=30;
+}

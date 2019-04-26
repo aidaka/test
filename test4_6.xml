@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="show4_6.css" type="text/css" ?>
+<root>
+   <bigFrame>
+      我是最大的点边框:
+      <smallFrame ID="01">
+         我是其中的双线小边框:      
+      </smallFrame>   
+      <smallFrame ID="02">
+         我是其中的3D小边框:      
+      </smallFrame>  
+   </bigFrame>
+</root>
